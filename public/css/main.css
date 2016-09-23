@@ -10,7 +10,7 @@ body {
 .box-sm {
   position: relative;
   padding: 80px;
-  background-color: lightblue;
+  background-color: skyblue;
 }
 
 .box-md {
@@ -22,7 +22,6 @@ body {
 .box-lg{
   width: 600px;
   padding: 75px 150px;
-  position: relative;
   margin: 100px auto;
   background-color: yellow;
 }
